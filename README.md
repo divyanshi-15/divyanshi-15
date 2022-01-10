@@ -29,13 +29,13 @@ Here are some ideas to get you started:
 <br />
 
 ### About Me 🚀
-🎓 I'm pursuing Btech in Computer Science Engineering.</br>
-👨‍💻 I enjoy exploring and learning new things.
-🌱 I’m currently learning Java and stating with OpenSource.
-👯 I’m looking to collaborate on projects related to Android App Development.
-🤔 I’m looking for help with Kubernetes and Docker.
-💬 Ask me about anything.
-⚡ Fun fact: I love singing but I sing too good to make you deaf. </br>
+-🎓 I'm pursuing Btech in Computer Science Engineering.</br>
+-👨‍💻 I enjoy exploring and learning new things.
+-🌱 I’m currently learning Java and stating with OpenSource.
+-👯 I’m looking to collaborate on projects related to Android App Development.
+-🤔 I’m looking for help with Kubernetes and Docker.
+-💬 Ask me about anything.
+-⚡ Fun fact: I love singing but I sing too good to make you deaf. </br>
 
 ![Divyanshi's github stats](https://github-readme-stats.vercel.app/api?username=divyanshi-15&show_icons=true&hide_border=true)
 <br />
