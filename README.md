@@ -1,49 +1,64 @@
+# Hey 👋, I'm Divyanshi!
 
-<!--
-**divyanshi-15/divyanshi-15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Software Engineer (Java) | Transitioning into AI/ML
+🚀 Building scalable systems + exploring intelligent applications
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on myself.
-- 🌱 I’m currently learning Java and stating with OpenSource.
-- 👯 I’m looking to collaborate on projects related to Android App Development.
-- 🤔 I’m looking for help with Kubernetes and Docker.
-- 💬 Ask me about anything.
-- 📫 How to reach me: 
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I love singing but I sing too good to make you deaf.
--->
+### 👩‍💻 About Me
 
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Divyanshi!
+* 💼 Currently working as a **Software Development Engineer (Java)**
+* 🧠 Transitioning into **AI/ML & Generative AI**
+* ⚡ Strong foundation in **DSA, backend systems & problem solving**
+* 🌱 Currently learning:
 
-<a href="https://www.linkedin.com/in/divyanshi-gupta-0889091b5/">
-  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
-</a>
-<a href="https://twitter.com/_divyanshi_dg">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="mailto:divyanshi.gupta152@gmail.com">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
+  * Python for AI
+  * Machine Learning
+  * System Design
 
-<br />
+---
 
-### About Me 🚀
-<ul>
-  <li>🎓 I'm pursuing Btech in Computer Science Engineering.</li>
+### 🛠️ Tech Stack
 
-  <li>👨‍💻 I enjoy exploring and learning new things.</li>
+**Languages:**
+Java • Python
 
-  <li>🌱 I’m currently learning Java and stating with OpenSource.</li>
+**Backend & Tools:**
+Spring Boot • REST APIs • Git • MySQL
 
-  <li>👯 I’m looking to collaborate on projects related to Android App Development.</li>
+**AI/ML (Learning & Building):**
+NumPy • Pandas • Scikit-learn • Matplotlib
 
-  <li>🤔 I’m looking for help with Kubernetes and Docker.</li>
+---
 
-  <li>💬 Ask me about anything.</li>
+### 🚀 Current Focus
 
-  <li>⚡ Fun fact: I love singing but I sing too good to make you deaf.</li> </ul>
+* Building **Machine Learning projects**
+* Strengthening **System Design**
+* Practicing **DSA (Java)**
+* Working towards **AI-powered applications**
 
-![Divyanshi's github stats](https://github-readme-stats.vercel.app/api?username=divyanshi-15&show_icons=true&hide_border=true)
-<br />
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=divyanshi-15.divyanshi-15)
+---
+
+### 📂 Featured Projects (Updating Soon)
+
+* 🔹 Titanic Survival Analysis (Data Analysis + Visualization)
+* 🔹 Titanic Survival Predictor (Machine Learning Model)
+* 🔹 AI-based Applications (Coming Soon 🚀)
+
+---
+
+### 📊 GitHub Stats
+
+![Divyanshi's github stats](https://github-readme-stats.vercel.app/api?username=divyanshi-15\&show_icons=true\&hide_border=true)
+
+---
+
+### 📫 Connect With Me
+
+* 🔗 LinkedIn: https://www.linkedin.com/in/divyanshi-gupta-0889091b5/
+* 📧 Email: [divyanshi.gupta152@gmail.com](mailto:divyanshi.gupta152@gmail.com)
+
+---
+
+⭐ *Currently on a journey to become an engineer who can build and scale intelligent systems.*
