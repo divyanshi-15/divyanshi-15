@@ -35,16 +35,7 @@ NumPy • Pandas • Scikit-learn • Matplotlib
 
 * Building **Machine Learning projects**
 * Strengthening **System Design**
-* Practicing **DSA (Java)**
 * Working towards **AI-powered applications**
-
----
-
-### 📂 Featured Projects (Updating Soon)
-
-* 🔹 Titanic Survival Analysis (Data Analysis + Visualization)
-* 🔹 Titanic Survival Predictor (Machine Learning Model)
-* 🔹 AI-based Applications (Coming Soon 🚀)
 
 ---
 
